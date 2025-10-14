@@ -1,1 +1,7 @@
-[]
+[
+  { "name": "Shreyansh Ajmera", "role": "Groom", "phone": "+44XXXXXXXXXX", "photo": "" },
+  { "name": "Sneha Jain", "role": "Bride", "phone": "+91XXXXXXXXXX", "photo": "" },
+  { "name": "Manoj Ajmera", "role": "Father of Groom", "phone": "+91XXXXXXXXXX", "photo": "" },
+  { "name": "Sangeeta Ajmera", "role": "Mother of Groom", "phone": "+91XXXXXXXXXX", "photo": "" },
+  { "name": "Event Coordinator", "role": "Help Desk", "phone": "+91XXXXXXXXXX", "photo": "" }
+]

@@ -1,1 +1,17 @@
-{}
+[
+  {
+    "name": "Maheshwari Bhawan",
+    "address": "Ring Road, Surat, Gujarat",
+    "mapUrl": "https://maps.google.com/?q=Maheshwari+Bhawan+Surat"
+  },
+  {
+    "name": "Hotel Lords",
+    "address": "Athwa, Surat, Gujarat",
+    "mapUrl": "https://maps.google.com/?q=Hotel+Lords+Surat"
+  },
+  {
+    "name": "Ajmera House",
+    "address": "Adajan, Surat, Gujarat",
+    "mapUrl": "https://maps.google.com/?q=Adajan+Surat"
+  }
+]

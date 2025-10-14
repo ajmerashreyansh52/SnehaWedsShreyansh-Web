@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "Ganesh Sthapana",
+    "venue": "Ajmera House, Surat",
+    "startAt": "2025-11-12T10:00:00Z"
+  },
+  {
+    "title": "Mehendi",
+    "venue": "Hotel Lords, Surat",
+    "startAt": "2025-11-12T17:00:00Z"
+  },
+  {
+    "title": "Sangeet",
+    "venue": "Hotel Lords, Surat",
+    "startAt": "2025-11-12T19:30:00Z"
+  },
+  {
+    "title": "Wedding",
+    "venue": "Maheshwari Bhawan, Surat",
+    "startAt": "2025-11-13T18:00:00Z"
+  }
+]

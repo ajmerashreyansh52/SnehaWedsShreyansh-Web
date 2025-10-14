@@ -1,1 +1,26 @@
-{}
+[
+  {
+    "title": "Sangeet Dinner",
+    "items": [
+      "Tomato Basil Soup",
+      "Hara Bhara Kebab",
+      "Panner Tikka",
+      "Dal Makhani",
+      "Veg Biryani",
+      "Tandoori Roti",
+      "Gulab Jamun"
+    ]
+  },
+  {
+    "title": "Wedding Dinner",
+    "items": [
+      "Sweet Corn Soup",
+      "Chilli Paneer",
+      "Veg Handi",
+      "Jeera Rice",
+      "Butter Naan",
+      "Rasmalai",
+      "Kulfi"
+    ]
+  }
+]
